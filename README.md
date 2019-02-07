@@ -1,6 +1,6 @@
 # Robot-3D
 
-Projekt ten jest to animowana wizualizacja ramienia robota typu "Cylindrical arm" wykonana z użyciem Java 3D.
+Projekt ten jest to animowana wizualizacja ramienia robota typu "Cylindrical arm" wykonana z użyciem Java 3D.  
 Dokładny opis projektu znajduje się w pliku 'Sprawozdanie.docx'
 
 Sterowanie:  
