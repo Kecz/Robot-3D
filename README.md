@@ -18,3 +18,5 @@ Funckje przycisków:
 Wizualizacja korzysta z tekstur także są one potrzebne do poprawnego działania programu, przykładowe tekstury zostały załączone w pliku textures.zip 
 
 Projekt powstał we współpracy z Piotr Winkler - https://github.com/piotrwinkler
+
+Data wykonania: maj 2018
