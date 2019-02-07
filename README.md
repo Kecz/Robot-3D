@@ -11,9 +11,9 @@ Sterowanie:
 
 Funckje przycisków:  
 - Złap / Puść - chwytanie i puszczanie obiektu  
-- Uczenie robota / Wykonanie programu - po wciśnięciu robot zacznie zapamiętywać każdą komendę i ruch, aby robot zaczął wykonywać zapamiętany program wciśnij 'Wykonywanie programu'  
+- Uczenie robota / Wykonanie programu - po wciśnięciu 'Uczenie robota' robot zacznie zapamiętywać każdą komendę i ruch, aby robot zaczął wykonywać zapamiętany program wciśnij 'Wykonywanie programu'  
 - Swobodna praca - ruch robota bez zapamiętywania ruchów i komend
-- Reset kamery - Przywrócenie położenia kamery do pozycji domyślnej
+- Reset kamery - przywrócenie położenia kamery do pozycji domyślnej
 
 Wizualizacja korzysta z tekstur także są one potrzebne do poprawnego działania programu, przykładowe tekstury zostały załączone w pliku textures.zip 
 
