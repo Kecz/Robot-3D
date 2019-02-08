@@ -20,4 +20,4 @@ Wizualizacja korzysta z tekstur także są one potrzebne do poprawnego działani
 
 Projekt powstał we współpracy z Piotr Winkler - https://github.com/piotrwinkler
 
-**Data wykonania**: maj 2018
+**Data wykonania:** maj 2018
