@@ -10,7 +10,7 @@ Dokładny opis projektu znajduje się w pliku 'Sprawozdanie.docx'
 - ruch obiektem chwytanym - strzałki  
 - ruch kamerą - po przytrzymaniu LPM oraz scroll wheel
 
-## Funckje przycisków:  
+## Funkcje przycisków:  
 - Złap / Puść - chwytanie i puszczanie obiektu  
 - Uczenie robota / Wykonanie programu - po wciśnięciu 'Uczenie robota' robot zacznie zapamiętywać każdą komendę i ruch, aby robot zaczął wykonywać zapamiętany program wciśnij 'Wykonywanie programu'  
 - Swobodna praca - ruch robota bez zapamiętywania ruchów i komend
